@@ -31,5 +31,8 @@
     "onchange": "^6.0.0",
     "stylelint": "^10.1.0",
     "stylelint-scss": "^3.9.3"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
   }
 }
