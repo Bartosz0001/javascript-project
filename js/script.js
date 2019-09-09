@@ -281,7 +281,7 @@
 	function addClickListenersToTags(){
 	  /* find all links to tags */
 	  
-	  const links = document.querySelectorAll('.list a, .tags a');
+	  const links = document.querySelectorAll('.post-tags .list a, .tags a');
 
 	  /* START LOOP: for each link */
 	  
